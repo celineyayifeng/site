@@ -127,7 +127,59 @@ input[type=button]{
 	.image2 img{
 		max-height:110%;
 		max-width:110%;}
+.project-cell {
+    background-color: whitesmoke;
+    border-radius: 10px;
+    padding: 10px;
+    display: grid;
+    grid-template-columns: auto 1fr;
+    grid-column-gap: 10px;
+    margin-bottom: 10px;
+}
+.repo-link-panel {
+    align-self: end;
+    display: flex;
+    justify-self: end;
+}
 
+.repo-link {
+    align-self: center;
+    display: flex;
+    text-decoration: none;
+    color: gray;
+}
+
+.project-panel {
+    display: grid;
+    grid-template-rows: auto auto auto 1fr;
+}
+
+.project-image {
+    width: 200px;
+    height: 150px;
+}
+
+.project-title {
+    font-size: 20px;
+    text-decoration: none;
+    color: black;
+}
+
+.project-description {
+    color: darkgray;
+}
+
+.repo-icon {
+    height: 25px;
+    width: 25px;
+    align-self: center;
+}
+
+
+.icon-tray img {
+    height: 50px;
+    width: 50px;
+}
 
 .lifecontent{
 	left:10px;
