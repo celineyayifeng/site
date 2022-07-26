@@ -127,6 +127,11 @@ input[type=button]{
 	.image2 img{
 		max-height:110%;
 		max-width:110%;}
+.projectcontent{
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
 
 .project-cell {
     background-color: whitesmoke;
@@ -161,7 +166,6 @@ input[type=button]{
 }
 
 .project-title {
-    padding: 100px 165px;
     font-size: 20px;
     text-decoration: none;
     color: black;
