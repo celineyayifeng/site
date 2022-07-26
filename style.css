@@ -128,7 +128,7 @@ input[type=button]{
 		max-height:110%;
 		max-width:110%;}
 .pubcontent{
-	left:10px;
+	left:30px;
 	width:70%;
 	display:flex;
 	padding: 50px 50px;
@@ -140,7 +140,7 @@ input[type=button]{
 }
 
 .projectcontent{
-	left:10px;
+	left:30px;
 	width:70%;
 	display:flex;
 	padding: 50px 50px;
@@ -205,7 +205,7 @@ input[type=button]{
     width: 50px;
 }
 .storycontent{
-	left:10px;
+	left:30px;
 	width:70%;
 	display:flex;
 	padding: 50px 50px;
@@ -216,7 +216,7 @@ input[type=button]{
 	letter-spacing: 0px, 10px;
 	}
 .lifecontent{
-	left:10px;
+	left:30px;
 	width:70%;
 	display:flex;
 	padding: 50px 50px;
@@ -227,7 +227,7 @@ input[type=button]{
 	letter-spacing: 0px, 10px;
 	}
 .contactcontent{
-	left:10px;
+	left:30px;
 	width:70%;
 	display:flex;
 	padding: 100px 100px;
