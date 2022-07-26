@@ -129,17 +129,15 @@ input[type=button]{
 		max-width:110%;}
 
 .projectcontent{
-	left:0px;
+	left:10px;
 	width:70%;
-	height:auto;
 	display:flex;
-	padding: 100px 165px;
+	padding: 160px 190px;
 	flex-direction:column;
-	justify-content:center;
+	justify-cotnent:center;
 	align-items:center;
 	text-align:left;
-	height:300px;
-	line-height: 20px;
+	letter-spacing: 0px, 10px;
 }
 
 .project-cell {
