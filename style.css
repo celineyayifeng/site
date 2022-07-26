@@ -121,9 +121,9 @@ input[type=button]{
 	position:absolute;
 	top:700px;
 	left:65%;
-	height:300px;
-	padding:20px;
-	width:300px;}
+	height:400px;
+	padding:10px;
+	width:400px;}
 	.image2 img{
 		max-height:110%;
 		max-width:110%;}
@@ -133,7 +133,7 @@ input[type=button]{
 	display:flex;
 	padding: 50px 50px;
 	flex-direction:column;
-	justify-cotnent:center;
+	justify-content:center;
 	align-items:center;
 	text-align:left;
 	letter-spacing: 0px, 10px;
@@ -145,7 +145,7 @@ input[type=button]{
 	display:flex;
 	padding: 50px 50px;
 	flex-direction:column;
-	justify-cotnent:center;
+	justify-content:center;
 	align-items:center;
 	text-align:left;
 	letter-spacing: 0px, 10px;
@@ -210,7 +210,7 @@ input[type=button]{
 	display:flex;
 	padding: 50px 50px;
 	flex-direction:column;
-	justify-cotnent:center;
+	justify-content:center;
 	align-items:center;
 	text-align:left;
 	letter-spacing: 0px, 10px;
@@ -221,7 +221,7 @@ input[type=button]{
 	display:flex;
 	padding: 50px 50px;
 	flex-direction:column;
-	justify-cotnent:center;
+	justify-content:center;
 	align-items:center;
 	text-align:center;
 	letter-spacing: 0px, 10px;
@@ -232,7 +232,7 @@ input[type=button]{
 	display:flex;
 	padding: 100px 100px;
 	flex-direction:column;
-	justify-cotnent:center;
+	justify-content:center;
 	align-items:center;
 	text-align:center;
 	letter-spacing: 0px, 10px;
