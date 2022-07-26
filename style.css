@@ -128,10 +128,10 @@ input[type=button]{
 		max-height:110%;
 		max-width:110%;}
 .pubcontent{
-	left:30px;
+	left:10px;
 	width:70%;
 	display:flex;
-	padding: 50px 50px;
+	padding: 100px 50px;
 	flex-direction:column;
 	justify-content:center;
 	align-items:center;
@@ -140,10 +140,10 @@ input[type=button]{
 }
 
 .projectcontent{
-	left:30px;
+	left:10px;
 	width:70%;
 	display:flex;
-	padding: 50px 50px;
+	padding: 100px 50px;
 	flex-direction:column;
 	justify-content:center;
 	align-items:center;
@@ -205,10 +205,10 @@ input[type=button]{
     width: 50px;
 }
 .storycontent{
-	left:30px;
+	left:10px;
 	width:70%;
 	display:flex;
-	padding: 50px 50px;
+	padding: 100px 50px;
 	flex-direction:column;
 	justify-content:center;
 	align-items:center;
@@ -216,10 +216,10 @@ input[type=button]{
 	letter-spacing: 0px, 10px;
 	}
 .lifecontent{
-	left:30px;
+	left:10px;
 	width:70%;
 	display:flex;
-	padding: 50px 50px;
+	padding: 100px 50px;
 	flex-direction:column;
 	justify-content:center;
 	align-items:center;
@@ -227,10 +227,10 @@ input[type=button]{
 	letter-spacing: 0px, 10px;
 	}
 .contactcontent{
-	left:30px;
+	left:10px;
 	width:70%;
 	display:flex;
-	padding: 100px 100px;
+	padding: 100px 150px;
 	flex-direction:column;
 	justify-content:center;
 	align-items:center;
