@@ -98,6 +98,7 @@ input[type=button]{
 .social i{
 	padding:12px 20px;
 	font-size:25px;}
+	.fa-github:hover,
 	.fa-facebook-f:hover,
 	.fa-linkedin:hover,
 	.fa-instagram:hover{
