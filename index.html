@@ -149,6 +149,24 @@ into different genres using just lyrics.
         </div>
     </div>
 	
+<div class="project-cell">
+        <img src="bayes.png" class="project-image">
+        <div class="project-panel">
+            <a class="project-title" >
+                A Bayesian Approach to Diagnosing Breast Cancer 
+            </a>
+            <div>
+                <hr>
+            </div>
+            <div class="project-description">
+		Breast cancer is the most common cancer among American women, and it is the second leading death of women after lung cancer. Although this cancer affects so many people, it’s often misdiagnosed because of various reasons like negligence or testing errors, which can lead to potential severe health consequences. For this project, I would like to improve the uncertainty behind the diagnosis of breast tissues of a patient (malignant vs benign) given some or all of the patient’s measurement values such as radius, texture, smoothness, and concavity. The dataset was obtained from Kaggle, and these measurements originated from digitized imaging of the cell nuclei from biopsies of breast masses. The dataset consists of 30 predictor variables: the mean, standard error, and the “worst” (average of the largest three means) values of 10 features of the cell nucleus, and the outcome variable diagnosis. Then, the observations of the features were standardized using the mean and standard deviation, and the categorical variable, diagnosis, was transformed into a numeric variable. In addition, the dataset was split into 70% training set and 30% test set for model prediction purposes. Because of the small number of instances in this dataset with only 569 instances, Hamiltonian Markov Chain Monte Carlo was used instead of variational inference for more precise samples. The goal of this project was to develop a sampling-based estimate for the posterior distributions of the variables and predictions in a main effects logistic regression model and two reduced models using the breast cancer dataset. 
+            </div>
+            <div class="repo-link-panel">
+                <img src="github.png" class="repo-icon"><a href="https://github.com/celineyayifeng/bayesianML " class="repo-link">repo</a>
+            </div>
+        </div>
+    </div>
+	
 </div>
 	
 </div>
