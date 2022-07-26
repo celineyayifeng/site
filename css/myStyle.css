@@ -1,0 +1,64 @@
+.logos {
+    height:70px;
+    width:auto;
+}
+
+.topBar {
+    height:200px;
+}
+
+.menu-height {
+    height:63px;
+}
+
+
+
+.contactProfilePic {
+    max-width:80%;
+}
+
+.horizontalCenter {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.footerRow {
+    flex-wrap: wrap;
+    overflow:hidden;
+    margin-right: -15px;
+    margin-left: -15px;
+}
+
+.floatToRight {
+    float:right;
+}
+
+.floatToLeft {
+    float:left;
+}
+
+.li-for-titles {
+    margin-bottom: 20px;
+    font-size:24px;
+}
+
+.cursor-hover:hover {
+    cursor:pointer;
+}
+
+.text-to-right-of-icon {
+    margin-left: 10px;
+}
+
+@media (min-width: 991px) {
+    .contact-margin-top {
+    margin-top: 30%;
+    }
+}
+
+@media (max-width: 991px) {
+    .contact-margin-top {
+    margin-top: 5%;
+    }
+}
